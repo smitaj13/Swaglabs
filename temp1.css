@@ -1,0 +1,55 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        .main{
+            height: 600px;
+            width: 70%;
+            background-color: aqua;
+            margin: auto;
+        }
+        .head{
+            height: 100px;
+            width: 100%;
+            background-color: blue;
+        }
+        .nav{
+            height: 50px;
+            width: 100%;
+            background-color: rgb(91, 38, 207);
+        }
+        .cont{
+            height: 400px;
+            width: 100%;
+            background-color: rgb(0, 255, 166);
+        }
+        .left{ 
+            height: 400px;
+            width: 50%;
+            background-color: rgb(53, 99, 83);
+            float: left;
+        }
+        .up{
+            height: 200px;
+            width: 100%;
+            background-color: hotpink;
+        }
+        .down{
+            height: 200px;
+            width: 100%;
+            background-color: rgb(229, 0, 115);
+        }
+        .right{ 
+            height: 400px;
+            width: 50%;
+            background-color: rgb(45, 124, 180);
+            float: left;
+        }
+
+        .foot{
+            height: 50px;
+            width: 100%;
+            background-color: rgb(255, 204, 0);
+        }
